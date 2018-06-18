@@ -6,8 +6,8 @@
          "size": "4643",
          "score": "4.3",
          "icon": "https://gamefaqs.akamaized.net//box/3/7/8/57378_thumb.jpg",
-         "down_url": "https://github.com/MissApp/g1b1a30g1b1a30/raw/master/3/0/01.7z",
-         "pkg_name": "01.zip"
+         "down_url": "https://github.com/tukangpilem/GB4/raw/master/a/01.gba",
+         "pkg_name": "01.gba"
       },
       {
          "id": "100002",
@@ -16,7 +16,7 @@
          "score": "4.2",
          "icon": "https://gamefaqs.akamaized.net/box/6/0/2/61602_thumb.jpg",
          "down_url": "https://github.com/MissApp/g1b1a30g1b1a30/raw/master/3/0/02.7z",
-         "pkg_name": "01.zip"
+         "pkg_name": "02.gba"
       }
    ]
 }
