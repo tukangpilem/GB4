@@ -26,6 +26,24 @@
          "icon": "https:\/\/gamefaqs.akamaized.net\/box\/1\/0\/9\/13109_thumb.jpg",
          "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/03.7z",
          "pkg_name": "03.gba"
+      },
+      {
+         "id": "100004",
+         "name": "Pokemon - LeafGreen Version (USA) GBA",
+         "size": "4212",
+         "score": "4.4",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/3\/8\/5\/57385_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/04.7z",
+         "pkg_name": "04.gba"
+      },
+      {
+         "id": "100005",
+         "name": "Super Mario Advance 4 - Super Mario Bros. 3 (USA) GBA",
+         "size": "1909",
+         "score": "4.1",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/1\/4\/4\/52144_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/05.7z",
+         "pkg_name": "05.gba"
       }
    ]
 }
