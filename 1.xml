@@ -39,6 +39,47 @@
          "score": "4.1",
          "icon": "https:\/\/gamefaqs.akamaized.net\/box\/1\/4\/4\/52144_thumb.jpg",
          "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/05.7z"
+      },
+      {
+         "id": "100006",
+         "name": "Dragon Ball Z - Buu's Fury (USA) GBA",
+         "size": "5564",
+         "score": "4.3",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/9\/3\/0\/59930_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/06.7z"
+      },
+      {
+         "id": "100007",
+         "name": "Pokemon - Sapphire Version (USA, Europe) GBA",
+         "size": "4212",
+         "score": "4.2",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/7\/0\/0\/22700_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/07.7z"
+      },
+      {
+         "id": "100008",
+         "name": "Classic NES Series - Super Mario Bros. (USA, Europe) GBA",
+         "size": "956",
+         "score": "4.1",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/8\/3\/0\/14830_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/08.7z"
+      },
+      {
+         "id": "100009",
+         "name": "Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia) GBA",
+         "size": "7898",
+         "score": "4.3",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/3\/3\/1\/70331_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/15.7z"
+      },
+      {
+         "id": "100010",
+         "name": "Kirby - Nightmare in Dream Land (USA) GBA",
+         "size": "3689",
+         "score": "4.3",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/5\/6\/9\/18569_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/16.7z"
       }
+
    ]
 }
