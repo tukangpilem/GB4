@@ -1,0 +1,85 @@
+{
+   "game": [
+      {
+         "id": "100011",
+         "name": "Grand Theft Auto Advance (E) GBA",
+         "size": "4519",
+         "score": "4.2",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/0\/5\/2\/4052_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/09.7z"
+      },
+      {
+         "id": "100012",
+         "name": "Super Mario Advance 2 - Super Mario World (USA, Australia) GBA",
+         "size": "1198",
+         "score": "4.2",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/2\/9\/2\/13292_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/10.7z"
+      },
+      {
+         "id": "100013",
+         "name": "Legend of Zelda, The - The Minish Cap (USA) GBA",
+         "size": "6004",
+         "score": "4.2",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/3\/0\/1\/60301_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/11.7z"
+      },
+      {
+         "id": "100014",
+         "name": "Dragon Ball Z - Supersonic Warriors (E) (M5) GBA",
+         "size": "7276",
+         "score": "4.2",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/2\/0\/1\/58201_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/12.7z"
+      },
+      {
+         "id": "100015",
+         "name": "Naruto - Ninja Council 2 (USA) GBA",
+         "size": "2706",
+         "score": "4.2",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/9\/1\/8\/60918_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/13.7z"
+      },
+      {
+         "id": "100016",
+         "name": "Legend of Zelda, The - A Link to the Past Four Swords (USA, Australia) GBA",
+         "size": "2850",
+         "score": "4.2",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/3\/1\/6\/18316_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/14.7z"
+      },
+      {
+         "id": "100017",
+         "name": "Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia) GBA",
+         "size": "7898",
+         "score": "4.2",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/3\/3\/1\/70331_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/15.7z"
+      },
+      {
+         "id": "100018",
+         "name": "Kirby - Nightmare in Dream Land (USA) GBA",
+         "size": "3689",
+         "score": "4.2",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/5\/6\/9\/18569_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/16.7z"
+      },
+      {
+         "id": "100019",
+         "name": "Metal Slug Advance (USA) GBA",
+         "size": "2939",
+         "score": "4.2",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/9\/3\/2\/43932_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/17.7z"
+      },
+      {
+         "id": "100020",
+         "name": "Yu-Gi-Oh! GX - Duel Academy (USA) GBA",
+         "size": "20124",
+         "score": "4.2",
+         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/2\/1\/9\/69219_thumb.jpg",
+         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/18.7z"
+      }
+
+   ]
+}
