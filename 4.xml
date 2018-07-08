@@ -1,85 +1,28 @@
 {
-   "game": [
-      {
-         "id": "100021",
-         "name": "Dragon Ball Z - The Legacy of Goku II (USA) GBA",
-         "size": "5471",
-         "score": "4.2",
-         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/8\/4\/4\/52844_thumb.jpg",
-         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/19.7z"
-      },
-      {
-         "id": "100022",
-         "name": "Mario Kart - Super Circuit (USA) GBA",
-         "size": "1775",
-         "score": "4.2",
-         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/4\/6\/5\/11465_thumb.jpg",
-         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/20.7z"
-      },
-      {
-         "id": "100023",
-         "name": "Super Mario Advance 3 - Yoshi's Island (USA) GBA",
-         "size": "2090",
-         "score": "4.2",
-         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/2\/7\/3\/18273_thumb.jpg",
-         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/21.7z"
-      },
-      {
-         "id": "100024",
-         "name": "Crash Bandicoot - The Huge Adventure (USA) GBA",
-         "size": "3639",
-         "score": "4.2",
-         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/9\/5\/4\/14954_thumb.jpg",
-         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/22.7z"
-      },
-      {
-         "id": "100025",
-         "name": "Kirby &amp; the Amazing Mirror (USA) GBA",
-         "size": "4604",
-         "score": "4.2",
-         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/9\/8\/5\/57985_thumb.jpg",
-         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/23.7z"
-      },
-      {
-         "id": "100026",
-         "name": "Super Mario Advance (USA, Europe) GBA",
-         "size": "1692",
-         "score": "4.2",
-         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/5\/3\/2\/12532_thumb.jpg",
-         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/24.7z"
-      },
-      {
-         "id": "100027",
-         "name": "Dragon Ball - Advanced Adventure (USA) GBA",
-         "size": "4198",
-         "score": "4.2",
-         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/7\/7\/3\/62773_thumb.jpg",
-         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/25.7z"
-      },
-      {
-         "id": "100028",
-         "name": "Dragon Ball GT - Transformation (USA) GBA",
-         "size": "5604",
-         "score": "4.2",
-         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/5\/9\/1\/61591_thumb.jpg",
-         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/26.7z"
-      },
-      {
-         "id": "100029",
-         "name": "Dragon Ball Z - The Legacy of Goku (USA) GBA",
-         "size": "4144",
-         "score": "4.2",
-         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/6\/1\/3\/14613_thumb.jpg",
-         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/27.7z"
-      },
-      {
-         "id": "100030",
-         "name": "Final Fantasy VI Advance (USA) GBA",
-         "size": "4203",
-         "score": "4.2",
-         "icon": "https:\/\/gamefaqs.akamaized.net\/box\/9\/4\/6\/71946_thumb.jpg",
-         "down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/28.7z"
-      }
-
-   ]
+	"game": [
+       {
+		"id": "100031",
+		"name": "Mario & Luigi - Superstar Saga (USA, Australia) GBA",
+		"size": "5437",
+		"score": "4.2",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/8\/4\/1\/53841_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/29.7z"
+	},
+	{
+		"id": "100032",
+		"name": "Mortal Kombat Advance (E) GBA",
+		"size": "4998",
+		"score": "4.2",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/9\/6\/7\/15967_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g1b1a30g1b1a30\/raw\/master\/3\/0\/30.7z"
+	},
+	{
+		"id": "100033",
+		"name": "Street Fighter Alpha 3 (USA) GBA",
+		"size": "6778",
+		"score": "4.2",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/6\/8\/8\/7688_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/31.7z"
+	}
+  ]
 }
