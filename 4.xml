@@ -31,6 +31,54 @@
 		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/32.7z",
 		"size": "1160",
 		"score": "4.2"
+	},
+	{
+		"id": "100035",
+		"name": "Donkey Kong Country 3 (USA, Australia) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/4\/9\/7\/68497_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/33.7z",
+		"size": "10012",
+		"score": "4.2"
+	},
+	{
+		"id": "100036",
+		"name": "FIFA 2007 (USA) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/3\/0\/0\/77300_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/34.7z",
+		"size": "2844",
+		"score": "4.2"
+	},
+	{
+		"id": "100037",
+		"name": "Harvest Moon - Friends of Mineral Town (USA) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/5\/0\/1\/52501_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/35.7z",
+		"size": "2842",
+		"score": "4.2"
+	},
+	{
+		"id": "100038",
+		"name": "Golden Sun (USA, Europe) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/8\/0\/5\/12805_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/36.7z",
+		"size": "6404",
+		"score": "4.2"
+	},
+	{
+		"id": "100039",
+		"name": "Mother 3 (Japan) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/8\/8\/3\/52883_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/37.7z",
+		"size": "11863",
+		"score": "4.2"
+	},
+	{
+		"id": "100040",
+		"name": "Beyblade G-Revolution (E) (M4) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/8\/6\/6\/62866_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/38.7z",
+		"size": "1812",
+                "score": "4.2"
 	}
   ]
 }
