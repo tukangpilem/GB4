@@ -1,0 +1,84 @@
+{
+	"game": [
+	{
+		"id": "100071",
+		"name": "Super Robot Taisen - Original Generation (USA) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/0\/2\/1\/44021_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/69.7z",
+		"size": "3502",
+    "score": "4.2"
+	},
+	{
+		"id": "100072",
+		"name": "Super Robot Taisen - Original Generation 2 (USA) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/9\/0\/6\/61906_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/70.7z",
+		"size": "7283",
+    "score": "4.2"
+	},
+	{
+		"id": "100073",
+		"name": "Tales of Phantasia (USA, Australia) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/6\/4\/7\/43647_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/71.7z",
+		"size": "4503",
+    "score": "4.2"
+	},
+	{
+		"id": "100074",
+		"name": "WarioWare - Twisted! (USA) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/8\/9\/9\/61899_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/72.7z",
+		"size": "8511",
+    "score": "4.2"
+	},
+	{
+		"id": "100075",
+		"name": "WarioWare, Inc. - Mega Microgame$! (USA) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/5\/1\/0\/52510_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/73.7z",
+		"size": "4098",
+    "score": "4.2"
+	},
+	{
+		"id": "100076",
+		"name": "Classic NES Series - Castlevania (USA, Europe) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/6\/3\/5\/61635_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/74.7z",
+		"size": "997",
+    "score": "4.2"
+	},
+	{
+		"id": "100077",
+		"name": "Classic NES Series - Dr. Mario (USA, Europe) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/5\/9\/3\/59593_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/75.7z",
+		"size": "891",
+    "score": "4.2"
+	},
+	{
+		"id": "100078",
+		"name": "Classic NES Series - Legend of Zelda (USA, Europe) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/4\/6\/6\/58466_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/76.7z",
+		"size": "1013",
+    "score": "4.2"
+	},
+	{
+		"id": "100079",
+		"name": "Classic NES Series - Metroid (USA, Europe) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/6\/0\/9\/14609_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/77.7z",
+		"size": "983",
+    "score": "4.2"
+	},
+	{
+		"id": "100080",
+		"name": "Classic NES Series - Zelda II - The Adventure of Link (USA, Europe) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/3\/2\/6\/22326_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/78.7z",
+		"size": "505",
+    "score": "4.2"
+	}
+  ]
+}
