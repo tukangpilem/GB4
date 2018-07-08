@@ -1,0 +1,84 @@
+{
+	"game": [
+       {
+		"id": "100041",
+		"name": "Digimon - Battle Spirit (USA) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/1\/9\/9\/44199_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/39.7z",
+		"size": "900",
+		"score": "4.2"
+	},
+	{
+		"id": "100042",
+		"name": "Classic NES Series - Legend of Zelda (USA, Europe) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/4\/6\/6\/58466_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/40.7z",
+		"size": "1013",
+		"score": "4.2"
+	},
+	{
+		"id": "100043",
+		"name": "Megaman Zero 4 (USA) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/8\/8\/8\/64888_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/41.7z",
+		"size": "8400",
+		"score": "4.2"
+	},
+	{
+		"id": "100044",
+		"name": "Fire Emblem - The Sacred Stones (USA, Australia) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/1\/8\/1\/61181_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/42.7z",
+		"size": "8316",
+		"score": "4.2"
+	},
+	{
+		"id": "100045",
+		"name": "Fire Emblem (USA, Australia) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/8\/3\/2\/12832_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/43.7z",
+		"size": "9549",
+		"score": "4.2"
+	},
+	{
+		"id": "100046",
+		"name": "Classic NES Series - Donkey Kong (USA, Europe) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/4\/7\/0\/58470_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/44.7z",
+		"size": "957",
+		"score": "4.2"
+	},
+	{
+		"id": "100047",
+		"name": "Mario Party Advance (USA) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/0\/9\/0\/61090_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/45.7z",
+		"size": "4049",
+		"score": "4.2"
+	},
+	{
+		"id": "100048",
+		"name": "Final Fantasy Tactics Advance (USA, Australia) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/1\/1\/2\/17112_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/46.7z",
+		"size": "4684",
+		"score": "4.2"
+	},
+	{
+		"id": "100049",
+		"name": "Dragon Ball Z - Taiketsu (USA) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/2\/4\/2\/54242_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/47.7z",
+		"size": "3882",
+		"score": "4.2"
+	},
+	{
+		"id": "100050",
+		"name": "Medabots - Metabee Version (USA) GBA",
+		"icon": "https:\/\/gamefaqs.akamaized.net\/box\/4\/2\/3\/56423_thumb.jpg",
+		"down_url": "https:\/\/github.com\/MissApp\/g3b0a7g8b3a0\/raw\/master\/4\/8\/48.7z",
+		"size": "4914",
+		"score": "4.2"
+	}
+  ]
+}
